@@ -1,4 +1,4 @@
-package ru.mirea.kabo0122.list_1;
+package done.list_1;
 
 public class Circlelist {
     private Circlenode head = null;
